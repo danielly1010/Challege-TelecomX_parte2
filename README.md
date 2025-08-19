@@ -33,5 +33,6 @@ O objetivo é identificar clientes com maior risco de cancelar seus serviços e 
 
 ### 1. Clone o repositório
 ```bash
+https://github.com/danielly1010/Challege-TelecomX_parte2.git
 
 
